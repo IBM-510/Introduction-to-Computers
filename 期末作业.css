@@ -4,7 +4,6 @@ body{
 }
 h1 {
   color:#ffffff;
-  text-decoration: underline;
   font-size:70px;
 }
 p {
@@ -16,12 +15,12 @@ div{
   display: inline-block;
 }
 a:link {
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
+	text-decoration: underline;
+	color: white;
+	font-size: 20px;
 }
 a:visited {
-color: white
+	color: #FFF;
 } 
 .yuanjiao{
   margin:15px;
@@ -44,4 +43,10 @@ color: white
   width:100%;
   height:60%;
   overflow:hidden;
+}
+.computer-class{
+	width: 100%;
+	height: 200px;
+	text-align: left;
+
 }
