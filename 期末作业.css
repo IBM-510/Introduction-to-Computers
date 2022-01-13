@@ -7,9 +7,9 @@ h1 {
   font-size:70px;
 }
 p {
-  font-size:20px;
-  color: #ffffff;
-  margin:5px;
+	font-size: 20px;
+	color: #ffffff;
+	margin: 5px;
 }   
 div{
   display: inline-block;
@@ -45,8 +45,16 @@ a:visited {
   overflow:hidden;
 }
 .computer-class{
-	width: 100%;
-	height: 200px;
-	text-align: left;
-
+  width: 100%;
+  height: 200px;
+  text-align: left;
+}
+.mydiv-3{
+  width: 100%;
+  text-align: left;
+}
+.mydiv-4{
+	text-align: center;
+	height:auto;
+	width:100%;
 }
